@@ -75,7 +75,7 @@ Since 2023, I have developed a line in **astrochemistry** at CiQUS (USC) on auto
 
 ## Projects & funding (selected)
 
-- **Dem Ms DATAlife — Demostrador Multisectorial DATAlife** (FA: Ministerio para la Transformación Digital y de la Función Pública; ~3M€), **Dec 2024 – Jun 2026** — *Research WP leader; project management* (Researcher).  
+- **Dem Ms DATAlife — Demostrador Multisectorial DATAlife** (FA: Ministerio para la Transformación Digital y de la Función Pública; ~3M€), **Dec 2024 – Jun 2026** — *Researcher; project management* (Researcher).  
 - **PRACE HPC project** (EHPC-BEN-2023B11-040), *Casting light on the formation of the DNA nucleobases in space (I)*, **Nov 2023 – Jan 2024** — 7000 node-hours (PI; proposal author).  
 - **Xunta de Galicia** (2023-PG103; 25k€), *Elucidación mecanística de los procesos… en el medio interestelar*, **Sep 2023 – Apr 2025** — (PI; PF2-associated).  
 - **NWO HPC project**, *Cu-catalyzed 1,2 vs 1,4 conjugated additions…*, **Sep 2020 – Aug 2021** — 2.5 million node-hours (co-PI; proposal author).  
